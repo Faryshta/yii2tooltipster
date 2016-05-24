@@ -23,7 +23,6 @@
 		"bower-asset/tooltipster" : "~3.3.0"
 	},
 	"autoload": {
-		"psr-0": { "philippfrenzel\\yii2tooltipster\\": "" }
-	},
-	"target-dir": "philippfrenzel/yii2tooltipster"
+		"psr-4": { "philippfrenzel\\yii2tooltipster\\": "" }
+	}
 }
